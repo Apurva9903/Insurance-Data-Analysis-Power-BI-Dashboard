@@ -26,3 +26,11 @@ DAX Modeling: Created custom measures to calculate average premiums, claim succe
 Interactive UX: Implemented dynamic filters for "Policy Type" and "Claim Status" to allow users to drill down into specific data segments.
 
 Data Storytelling: Designed a visual hierarchy that moves from high-level KPIs to granular customer insights.
+
+
+
+## Dashboard Overview
+<img width="2054" height="1156" alt="image" src="https://github.com/user-attachments/assets/769efb03-34be-4108-9b0d-45f41486816e" />
+
+
+
